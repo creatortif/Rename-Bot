@@ -35,7 +35,7 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]()
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fcreatortif%2FRename-Bot&template=https%3A%2F%2Fgithub.com%2FAbirHasan2005%2FRename-Bot)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
 #### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot)
